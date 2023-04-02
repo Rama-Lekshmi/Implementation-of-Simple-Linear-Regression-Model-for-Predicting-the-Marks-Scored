@@ -63,9 +63,8 @@ plt.show()
 ```
 
 ## Output:
-
-![ml2 1](https://user-images.githubusercontent.com/118541549/229340935-a2ebcc8f-0520-4819-b175-4d7df1a5cbe2.png)
-![ml2 2](https://user-images.githubusercontent.com/118541549/229340941-bbe479c1-1cfc-40f2-aca4-aa5690ad82ce.png)
+![Screenshot 2023-04-02 135257](https://user-images.githubusercontent.com/118541549/229341282-3246344d-9aa2-4ac9-aa8c-8c7c5e0624ac.png)
+![Screenshot 2023-04-02 135324](https://user-images.githubusercontent.com/118541549/229341261-7f9066e2-464c-4379-80b1-63d0229eca57.png)
 ![Screenshot 2023-04-02 135005](https://user-images.githubusercontent.com/118541549/229341137-bc6a2858-e5d8-49ed-85eb-8520dd7767dd.png)
 ![ml2 4](https://user-images.githubusercontent.com/118541549/229340951-cf9e78cd-8b9c-47c0-ace7-076da23dd078.png)
 ![ml2 5](https://user-images.githubusercontent.com/118541549/229340953-26bf19f8-8d5c-4fe0-9b4f-71a64704fe2e.png)
