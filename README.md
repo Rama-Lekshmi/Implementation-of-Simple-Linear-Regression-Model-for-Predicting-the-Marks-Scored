@@ -63,7 +63,7 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
 ![ml2 1](https://user-images.githubusercontent.com/118541549/229340935-a2ebcc8f-0520-4819-b175-4d7df1a5cbe2.png)
 ![ml2 2](https://user-images.githubusercontent.com/118541549/229340941-bbe479c1-1cfc-40f2-aca4-aa5690ad82ce.png)
 ![ml2 3](https://user-images.githubusercontent.com/118541549/229340950-d8a9ccf2-3ecc-470f-8a82-e0deed1b9a62.png)
